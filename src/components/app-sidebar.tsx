@@ -26,6 +26,10 @@ const data = {
                 {
                     title: "Testpage",
                     url: "/",
+                },
+                {
+                    title: "Newpage",
+                    url: "/newpage",
                 }
             ],
         },
